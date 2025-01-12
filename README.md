@@ -10,16 +10,16 @@
 
 <h3 align="center">Minha Trajetória.</h3>
 
-A minha trajetória nas áreas de Analytics foram desempenhando principalmente papeis de ETL e EDA.
+A minha trajetória na área de Analytics foram desempenhando principalmente papeis de ETL e EDA.
 
-1. Estáqgio na área de Pricing (Crédito Pessoal) - **Santander Brasil**
-2. Estáqgio na área de Pricing (Engenharia) - **Santander Brasil**
+1. Estágio na área de Pricing (Crédito Pessoal) - **Santander Brasil**
+2. Estágio na área de Pricing (Engenharia/Motores de Decisão) - **Santander Brasil**
 3. Pricing & Credit Modeling Analyst - **Creditas**
 
 Nesse GitHub, além de utilizá-lo como uma extensão dos aprendizados que venho almejando, irei tentar compartilhar e disseminar análises interessantes e relevantes sobre várias coisas.
 
 
-Ah, além disso, meus estudos estão sendo direcionados pela **@analisemacro** através da formação _**Do Zero à Análise de Dados Econômicos e Financeiros usando Python e Inteligência Artificial**_
+Ah, além disso, meus estudos estão sendo direcionados pela [@analisemacro](https://github.com/analisemacro) através da formação _**Do Zero à Análise de Dados Econômicos e Financeiros usando Python e Inteligência Artificial**_
 
 
 
@@ -35,6 +35,9 @@ Ah, além disso, meus estudos estão sendo direcionados pela **@analisemacro** a
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="40" height="40"/> 
   </a> 
@@ -45,6 +48,6 @@ Ah, além disso, meus estudos estão sendo direcionados pela **@analisemacro** a
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg" alt="excel" width="40" height="40"/> 
   </a> 
   <a href="https://www.databricks.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Databricks_Logo.png" alt="databricks" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Databricks_Logo.png" alt="databricks" width="40" height="40"/> 
   </a> 
 </p>
