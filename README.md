@@ -45,9 +45,9 @@ Ah, além disso, meus estudos estão sendo direcionados pela [@analisemacro](htt
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg" alt="excel" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Excel_2013_logo.svg" alt="excel" width="40" height="40"/> 
   </a> 
   <a href="https://www.databricks.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Databricks_Logo.png" alt="databricks" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/databricks.svg" alt="databricks" width="40" height="40"/> 
   </a> 
 </p>
